@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
 👋 Hello! I’m Anubhav, a Manager at HSBC specializing in Generative AI, RAG and production-grade ML systems.
@@ -121,21 +121,3 @@ python examples/run_rag_demo.py
 
 > Enjoy exploring — let’s make AI & ML in finance smarter and safer together!  
 
-=======
-## Hi there 👋
-
-<!--
-**anubhavtech574/anubhavtech574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 48e8478dcfad640c75a35bc1b471c2f1110d8eaf
