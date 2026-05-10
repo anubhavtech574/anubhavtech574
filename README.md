@@ -1,4 +1,3 @@
-
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
 👋 Hello! I’m Anubhav, a Manager at HSBC specializing in Generative AI, RAG and production-grade ML systems.
@@ -65,7 +64,7 @@
 <a id="featured-projects"></a>
 ## 📁 Featured Projects
 
-### Agentic AI Workflow (LangGraph Framework) | [Project Link](https://github.com/anubhav0296/AGENTICLANGGRAPH)
+### Agentic AI Workflow (LangGraph Framework) | [Project Link](https://github.com/anubhavtech574/Agentic-AI-LangGraph)
 - Designed an agentic AI workflow using **LangGraph StateGraph**, enabling structured orchestration of LLM reasoning.
 - Implemented tool-enabled agents with **LangChain**, integrating external sources (Wikipedia, ArXiv, Tavily) for dynamic retrieval.
 - Built conditional routing and multi-step reasoning pipelines so LLMs autonomously decide when to invoke tools.
@@ -75,7 +74,7 @@
 - Developed modular sub-workflows with API integrations (Google Workspace, search APIs) and dynamic prompt chaining.
 - Deployed a real-world assistant with **Telegram + voice interface**, showing end-to-end automation and multimodal orchestration.
 
-### Generative AI & LLM Applications (LangChain Ecosystem) | [Project Link](https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN)
+### Generative AI & LLM Applications (LangChain Ecosystem) | [Project Link](https://github.com/anubhavtech574/Generative-AI-LangChain-main/tree/main/Generative-AI-LangChain-main/LANGCHAIN)
 - Built high-performance **RAG pipeline with Groq LPU** using Llama 3.1 / Gemma for fast query responses over large unstructured content.
 - Designed scalable vector search with **AstraDB (Cassandra)** and **Pinecone**, optimizing embeddings for context-aware generation.
 - Developed end-to-end pipelines and deployed LLM apps as REST APIs using **FastAPI + LangServe**, with monitoring via **LangSmith**.
@@ -120,4 +119,3 @@ python examples/run_rag_demo.py
 ---
 
 > Enjoy exploring — let’s make AI & ML in finance smarter and safer together!  
-
